@@ -1,15 +1,29 @@
 {
-  "name": "yasbooks",
+  "name": "e-commerce-books",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@chakra-ui/icons": "^2.0.1",
+    "@chakra-ui/react": "^2.1.2",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@hookform/resolvers": "^2.9.1",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "axios": "^0.27.2",
+    "framer-motion": "^6",
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-hook-form": "^7.32.1",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "5",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.0"
+    "react-toastify": "^9.0.4",
+    "styled-components": "^5.3.5",
+    "web-vitals": "^2.1.0",
+    "yup": "^0.32.11"
   },
   "scripts": {
     "start": "react-scripts start",
