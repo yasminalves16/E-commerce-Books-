@@ -9,7 +9,7 @@
 
 Book'Yas foi um projeto desenvolvido que tinha como objetivo construir uma pagina de e-commerce, onde por meio de providers com contexApi deveriamos renderizar os produtos na tela (responsiva e mobile first), seguindo o figma base criado por mim! Possui tela de login e cadastro, homePage, page principal e page carrinho onde é renderizado a quantiade de itens adicionados e contabilizado o valor total
 
-<img src="./src/assets/Gravação de tela de 03-08-2022 19:48:52.webm" alt="Video mostrando uso do site" style="width: 500px">
+<video src="./public/certo.webm" alt="Video mostrando uso do site" style="width: 500px">
 
 ## Principais desafios
 
